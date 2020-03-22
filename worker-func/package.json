@@ -1,0 +1,17 @@
+{
+  "name": "cloud-function-tutorial",
+  "version": "1.0.0",
+  "description": "tutorial on creating a GCP cloud function express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wesley Haigh",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^3.7.1",
+    "@slack/web-api": "^5.8.0",
+    "express": "^4.16.4",
+    "lodash": "^4.17.15"
+  }
+}
