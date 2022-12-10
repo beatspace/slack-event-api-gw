@@ -11,6 +11,6 @@
   "dependencies": {
     "@google-cloud/pubsub": "^1.6.0",
     "@slack/events-api": "^2.3.2",
-    "express": "^4.16.4"
+    "express": "^4.17.3"
   }
 }
